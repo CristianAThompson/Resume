@@ -68,7 +68,7 @@ var projects = {
 	}, {
 		"title": "Code Your Own Quiz",
 		"dates": "December 2015",
-		"description": "A fill in the blanks quiz/game that levrages the power of functions in Python. Automates repetitive tasks that can be done on a computer.",
+		"description": "A fill in the blanks quiz/game that leverages the power of functions in Python and automates repetitive tasks that can be done on a computer.",
 		"images": ["https://scontent-lga3-1.xx.fbcdn.net/hphotos-xla1/t31.0-8/s2048x2048/12828376_581431825345818_5127600873965910527_o.jpg",
 			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s2048x2048/12828456_581431815345819_8904512670715877367_o.jpg",
 			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/s2048x2048/1933625_581431822012485_3237718145067864364_o.jpg"
@@ -101,7 +101,7 @@ projects.display = function() {
 var education = {
 	"schools": [{
 		"name": "Jefferson High School",
-		"location": "Clancy, MT",
+		"location": "Boulder, MT",
 		"majors": ["General Education Studies", "High School Graduate"],
 		"degree": "High School Certificate",
 		"dates": "2003-2007",
@@ -176,7 +176,7 @@ var bio = {
 		"location": "35 Orchard Drive, Stratford PE C1B 1K7"
 	},
 	"biopic": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-frc1/v/t1.0-9/10888703_407644209391248_5781748332896288379_n.jpg?oh=1c4dfadc7b94e3af7ed1d2d25b9a2c05&oe=57929EC3",
-	"welcomeMessage": "Hi and welcome to my resumé, please contact me with any questions or if you would be interested in discussing a job proposal.",
+	"welcomeMessage": "Please contact me with any questions or if you would be interested in discussing a job proposal.",
 	"skills": ["Ability to adapt and learn in new situations.",
 		"Knowledgable in multiple programming languages including: Java, Python, HTML, CSS, and Javascript.",
 		"Strong communication skills.",
