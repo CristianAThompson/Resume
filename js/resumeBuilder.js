@@ -89,7 +89,9 @@ projects.display = function() {
 		if (projects.projects[project].images.length > 0) {
 			for (var image = 0; image < projects.projects[project].images.length; image++) {
 				var formattedProImage = HTMLprojectImage.replace("%data%", projects.projects[project].images[image]);
-				$(".project-entry:last").append(formattedProImage);
+				var formattedProThumb = HTMLprojectThumbnail.replace("%data%", projects.projects[project].images[image]);
+				var formattedImg = formattedProImage + formattedProThumb;
+				$(".project-entry:last").append(formattedImg);
 			}
 		}
 
