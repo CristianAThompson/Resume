@@ -16,12 +16,12 @@ var HTMLheaderName = '<h1 id="name">%data%</h1>';
 var HTMLheaderRole = '<h2 class="gray-green-text">%data%</h2><hr>';
 
 var HTMLcontactGeneric = '<ul class="flex-item"><span class="orange-text">%contact%</span><span class="white-text">%data%</span></ul>';
-var HTMLmobile = '<ul class="flex-item"><span class="orange-text">mobile</span><span class="white-text">%data%</span></ul>';
-var HTMLemail = '<ul class="flex-item"><span class="orange-text">email</span><span class="white-text">%data%</span></ul>';
-var HTMLtwitter = '<ul class="flex-item"><span class="orange-text">twitter</span><span class="white-text">%data%</span></ul>';
-var HTMLgithub = '<ul class="flex-item"><span class="orange-text">github</span><span class="white-text">%data%</span></ul>';
-var HTMLblog = '<ul class="flex-item"><span class="orange-text">blog</span><span class="white-text">%data%</span></ul>';
-var HTMLlocation = '<ul class="flex-item"><span class="orange-text">location</span><span class="white-text">%data%</span></ul>';
+var HTMLmobile = '<ul class="flex-item"><span class="orange-text">Mobile</span><span class="white-text">%data%</span></ul>';
+var HTMLemail = '<ul class="flex-item"><span class="orange-text">Email</span><span class="white-text">%data%</span></ul>';
+var HTMLtwitter = '<ul class="flex-item"><span class="orange-text">Twitter</span><span class="white-text">%data%</span></ul>';
+var HTMLgithub = '<ul class="flex-item"><span class="orange-text">GitHub</span><span class="white-text">%data%</span></ul>';
+var HTMLblog = '<ul class="flex-item"><span class="orange-text">Blog</span><span class="white-text">%data%</span></ul>';
+var HTMLlocation = '<ul class="flex-item"><span class="orange-text">Location</span><span class="white-text">%data%</span></ul>';
 
 var HTMLbioPic = '<img src="%data%" class="biopic">';
 var HTMLwelcomeMsg = '<span class="gray-text welcome-message">%data%</span>';
