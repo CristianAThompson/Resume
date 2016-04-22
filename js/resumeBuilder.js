@@ -102,7 +102,7 @@ var education = {
 	"schools": [{
 		"name": "Jefferson High School",
 		"location": "Boulder, MT",
-		"majors": ["General Education Studies", "High School Graduate"],
+		"majors": ["General Studies", "High School Graduate"],
 		"degree": "High School Certificate",
 		"dates": "2003-2007",
 		"url": "http://www.jhs.k12.mt.us/"
