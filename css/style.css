@@ -62,7 +62,6 @@ h5 {
 
 }
 
-
 .date-text {
   font-style: italic;
   font-size: 14px;
@@ -152,6 +151,12 @@ a {
 .gray-text {
   font-weight: bold;
   color: #B0B0B0;
+}
+
+.text-left {
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .hide-link {

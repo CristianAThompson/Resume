@@ -178,11 +178,10 @@ var bio = {
 	"biopic": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-frc1/v/t1.0-9/10888703_407644209391248_5781748332896288379_n.jpg?oh=1c4dfadc7b94e3af7ed1d2d25b9a2c05&oe=57929EC3",
 	"welcomeMessage": "Please contact me with any questions or if you would be interested in discussing a job proposal.",
 	"skills": ["Ability to adapt and learn in new situations.",
-		"Knowledgable in multiple programming languages including: Java, Python, HTML, CSS, and Javascript.",
+		"Knowledgable in Python, HTML, CSS, and Javascript.",
 		"Strong communication skills.",
 		"Ability to work with others.",
-		"Trained on customer interaction and conflict resolution.",
-		"Experience in maintanence of networks and user computers."
+		"Trained on interaction and conflict resolution."
 	]
 };
 
@@ -217,8 +216,6 @@ bio.display = function() {
 		$("#skills").append(formattedSkill);
 		formattedSkill = HTMLskills.replace("%data%", bio.skills[4]);
 		$("#skills").append(formattedSkill);
-		formattedSkill = HTMLskills.replace("%data%", bio.skills[5]);
-
 	}
 
 };
