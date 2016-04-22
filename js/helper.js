@@ -53,7 +53,7 @@ var HTMLonlineCourses = '<h3>Online Courses</h3>';
 var HTMLonlineTitle = '<a class="hide-link" href="#">%data%';
 var HTMLonlineSchool = ' - %data%</a>';
 var HTMLonlineDates = '<div class="date-text">%data%</div>';
-var HTMLonlineURL = '<br><a href="#">%data%</a>';
+var HTMLonlineURL = '<br><a href="%data%">Information for the course above.</a>';
 
 var googleMap = '<div id="map"></div>';
 

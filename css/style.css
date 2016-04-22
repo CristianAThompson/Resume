@@ -232,6 +232,10 @@ span {
   .welcome-message {
     display: none;
   }
+  .thumbnail{
+    width: 65%;
+    height: auto;
+  }
 }
 
 #map {
