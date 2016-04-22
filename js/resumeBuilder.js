@@ -35,7 +35,7 @@ var work = {
 		"Interact with and manage user and email databases."+"<br>"+
 		"Run new network components such as switches or new desktops."+"<br>"+
 		"Maintain and repair current hardware: building computers, replacing components within the computer,replacing network switches."+"<br>"+
-		"Integrate new operating systems for use in database management such as migration from windows server to linux server and vice versa.")
+		"Integrate new operating systems for use in database management such as migration from Windows server to Linux server and vice versa.")
 	}]
 };
 
