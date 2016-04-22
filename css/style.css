@@ -62,6 +62,10 @@ h5 {
 
 }
 
+div {
+  padding-top: 5px;
+}
+
 .date-text {
   font-style: italic;
   font-size: 14px;
