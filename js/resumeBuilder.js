@@ -106,13 +106,6 @@ var education = {
 		"degree": "Letter of Completion",
 		"dates": "2013-2014",
 		"url": "http://gastronomicom.fr/"
-	}, {
-		"name": "Jefferson High School",
-		"location": "Boulder, MT",
-		"majors": ["High School Diploma"],
-		"degree": "High School Certificate",
-		"dates": "2003-2007",
-		"url": "http://www.jhs.k12.mt.us/"
 	}],
 
 	"onlineCourses": [{
