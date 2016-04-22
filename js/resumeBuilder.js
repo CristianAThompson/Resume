@@ -18,7 +18,7 @@ var work = {
 		"Maintain and assure product quality standards."+"<br>"+
 		"Monitor and adjust production based on sales and current inventory.")
 	}, {
-		"title": "Customer Service Representetive",
+		"title": "Customer Service Representative",
 		"employer": "Albertsons Inc.",
 		"dates": "September 2007-November 2009",
 		"location": "Helena, MT",
