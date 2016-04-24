@@ -4,38 +4,38 @@ var work = {
 		"employer": "Verizon Wireless",
 		"dates": "December 2014-October 2015",
 		"location": "Helena, MT",
-		"description": ("Diagnose and repair client devices ranging from mobile devices to laptops."+"<br>"+
-		"Multi-task with several people or groups of people at the same time with varying issues or needs."+"<br>"+
-		"Explain complex issues in a simple way for the customer to understand."+"<br>"+
-		"Manage conflict resolution with frustrated customers.")
+		"description": ("<b>⋅</b> Diagnose and repair client devices ranging from mobile devices to laptops."+"<br>"+
+		"<b>⋅</b> Multi-task with several people or groups of people at the same time with varying issues or needs."+"<br>"+
+		"<b>⋅</b> Explain complex issues in a simple way for the customer to understand."+"<br>"+
+		"<b>⋅</b> Manage conflict resolution with frustrated customers.")
 	}, {
 		"title": "Baker/Manager",
 		"employer": "Sweetgrass Bakery",
 		"dates": "November 2009-August 2012",
 		"location": "Helena, MT",
-		"description": ("Manage start and finish times of shifts."+"<br>"+
-		"Instruct and monitor individuals on proper baking/mixing procedure."+"<br>"+
-		"Maintain and assure product quality standards."+"<br>"+
-		"Monitor and adjust production based on sales and current inventory.")
+		"description": ("<b>⋅</b> Manage start and finish times of shifts."+"<br>"+
+		"<b>⋅</b> Instruct and monitor individuals on proper baking/mixing procedure."+"<br>"+
+		"<b>⋅</b> Maintain and assure product quality standards."+"<br>"+
+		"<b>⋅</b> Monitor and adjust production based on sales and current inventory.")
 	}, {
 		"title": "Customer Service Representative",
 		"employer": "Albertsons Inc.",
 		"dates": "September 2007-November 2009",
 		"location": "Helena, MT",
-		"description": ("Interact with customers and attempt to help them with their varying needs."+"<br>"+
-		"Produce goods to be packaged and sold on customer facing displays."+"<br>"+
-		"Place and check in orders for bakery goods."+"<br>"+
-		"Clean work areas continually to maintain an appealing outward appearance.")
+		"description": ("<b>⋅</b> Interact with customers and attempt to help them with their varying needs."+"<br>"+
+		"<b>⋅</b> Produce goods to be packaged and sold on customer facing displays."+"<br>"+
+		"<b>⋅</b> Place and check in orders for bakery goods."+"<br>"+
+		"<b>⋅</b> Clean work areas continually to maintain an appealing outward appearance.")
 	}, {
 		"title": "Intern: Network Repair and Maintenance",
 		"employer": "Jefferson High School",
 		"dates": "August 2005-April 2007",
 		"location": "Boulder, MT",
-		"description": ("Help with client problem resolution."+"<br>"+
-		"Interact with and manage user and email databases."+"<br>"+
-		"Run new network components such as switches or new desktops."+"<br>"+
-		"Maintain and repair current hardware: building computers, replacing components within the computer,replacing network switches."+"<br>"+
-		"Integrate new operating systems for use in database management such as migration from Windows server to Linux server and vice versa.")
+		"description": ("<b>⋅</b> Help with client problem resolution."+"<br>"+
+		"<b>⋅</b> Interact with and manage user and email databases."+"<br>"+
+		"<b>⋅</b> Run new network components such as switches or new desktops."+"<br>"+
+		"<b>⋅</b> Maintain and repair current hardware: building computers, replacing components within the computer,replacing network switches."+"<br>"+
+		"<b>⋅</b> Integrate new operating systems for use in database management such as migration from Windows server to Linux server and vice versa.")
 	}]
 };
 
