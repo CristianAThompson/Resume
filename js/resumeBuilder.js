@@ -61,17 +61,17 @@ var projects = {
 		"title": "Create a Movie Website",
 		"dates": "January 2016",
 		"description": "A simple movie website built with HTML, CSS, and Python that displays images and movie trailers with descriptions for each item.",
-		"images": ["https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpa1/t31.0-8/s2048x2048/10287017_581425225346478_6702322605863626704_o.jpg",
-			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s2048x2048/1933611_581427418679592_7753455580423753752_o.jpg",
-			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xft1/t31.0-8/s2048x2048/12829426_581427422012925_3678505561065937478_o.jpg"
+		"images": ["images/movie1",
+			"images/movie2",
+			"images/movie3"
 		]
 	}, {
 		"title": "Code Your Own Quiz",
 		"dates": "December 2015",
 		"description": "A fill in the blanks quiz/game that leverages the power of functions in Python and automates repetitive tasks that can be done on a computer.",
-		"images": ["https://scontent-lga3-1.xx.fbcdn.net/hphotos-xla1/t31.0-8/s2048x2048/12828376_581431825345818_5127600873965910527_o.jpg",
-			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s2048x2048/12828456_581431815345819_8904512670715877367_o.jpg",
-			"https://scontent-lga3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/s2048x2048/1933625_581431822012485_3237718145067864364_o.jpg"
+		"images": ["images/quiz1",
+			"images/quiz2",
+			"images/quiz3"
 		]
 	}]
 };
