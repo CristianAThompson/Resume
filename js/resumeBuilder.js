@@ -61,17 +61,17 @@ var projects = {
 		"title": "Create a Movie Website",
 		"dates": "January 2016",
 		"description": "A simple movie website built with HTML, CSS, and Python that displays images and movie trailers with descriptions for each item.",
-		"images": ["images/movie1",
-			"images/movie2",
-			"images/movie3"
+		"images": ["images/movie1.jpg",
+			"images/movie2.jpg",
+			"images/movie3.jpg"
 		]
 	}, {
 		"title": "Code Your Own Quiz",
 		"dates": "December 2015",
 		"description": "A fill in the blanks quiz/game that leverages the power of functions in Python and automates repetitive tasks that can be done on a computer.",
-		"images": ["images/quiz1",
-			"images/quiz2",
-			"images/quiz3"
+		"images": ["images/quiz1.jpg",
+			"images/quiz2.jpg",
+			"images/quiz3.jpg"
 		]
 	}]
 };
