@@ -63,13 +63,13 @@ var projects = {
 		"description": "A simple movie website built with HTML, CSS, and Python that displays images and movie trailers with descriptions for each item.",
 		"images": ["images/movie2.jpg",
 		],
-		"link": ""
+		"link": "http://cristianathompson.github.io/MovieWebsiteProject"
 	}, {
 		"title": "Code Your Own Quiz",
 		"dates": "December 2015",
 		"description": "A fill in the blanks quiz/game that leverages the power of functions in Python and automates repetitive tasks that can be done on a computer.",
 		"images": ["images/quiz2.jpg"
-		]
+		],
 		"link": "http://cristianathompson.github.io/PythonQuiz/"
 	}]
 };
