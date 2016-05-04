@@ -61,10 +61,9 @@ var projects = {
 		"title": "Create a Movie Website",
 		"dates": "January 2016",
 		"description": "A simple movie website built with HTML, CSS, and Python that displays images and movie trailers with descriptions for each item.",
-		"images": ["images/movie1.jpg",
-			"images/movie2.jpg",
-			"images/movie3.jpg"
-		]
+		"images": ["images/movie2.jpg",
+		],
+		"link": "http://cristianathompson.github.io/MovieWebsiteProject/"
 	}, {
 		"title": "Code Your Own Quiz",
 		"dates": "December 2015",
@@ -88,10 +87,12 @@ projects.display = function() {
 		$(".project-entry:last").append(formattedProDescription);
 		if (projects.projects[project].images.length > 0) {
 			for (var image = 0; image < projects.projects[project].images.length; image++) {
-				var formattedProImage = HTMLprojectImage.replace(/"%data%"/g, projects.projects[project].images[image]);
+				var formattedProImage = HTMLprojectImage.replace("%data%", projects.projects[project].images[image]);
 				$(".project-entry:last").append(formattedProImage);
 			}
 		}
+		var formattedProLink = HTMLprojectLink.replace("%data%", projects.projects[project].link);
+		$(".project-entry:last").append(formattedProLink);
 
 	}
 
