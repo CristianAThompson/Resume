@@ -22,16 +22,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-	<div id="main">
-		<div id="menuicon" class="center-content clear-fix">
-			<a id="menu"><i class="fa fa-bars fa-2x logo" id="menubar" aria-hidden="true"></i></a>
-		</div>
-		<nav id="drawer" class="nav center-content clear-fix">
-			<ul class="nav__list center-content clear-fix">
-				<li class="nav__item"><a href="http://CristianAThompson.github.io">Home</a></li>
-				<li class="nav__item"><a href="http://CristianAThompson.github.io/Portfolio">Portfolio</a></li>
-			</ul>
-		</nav>
+	<div class="container">
 		<div id="header" class="center-content clear-fix">
 		</div>
 		<div style="clear: both;"></div>
@@ -85,22 +76,7 @@
 		if(document.getElementById('map') === null) {
 			document.getElementById('mapDiv').style.backgroundColor = "#000000";
 		}
-
-		/*
-		* Open the drawer when the menu ison is clicked.
-		*/
-		var menu = document.querySelector('#menu');
-		var main = document.querySelector('main');
-		var drawer = document.querySelector('#drawer');
-
-		menu.addEventListener('click', function(e) {
-			drawer.classList.toggle('open');
-			e.stopPropagation();
-		});
-		main.addEventListener('click', function() {
-			drawer.classList.remove('open');
-		});
-
+		
 	</script>
 </body>
 </html>
