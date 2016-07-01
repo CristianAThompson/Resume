@@ -26,16 +26,6 @@ var work = {
 		"<b>⋅</b> Produce goods to be packaged and sold on customer facing displays."+"<br>"+
 		"<b>⋅</b> Place and check in orders for bakery goods."+"<br>"+
 		"<b>⋅</b> Clean work areas continually to maintain an appealing outward appearance.")
-	}, {
-		"title": "Intern: Network Repair and Maintenance",
-		"employer": "Jefferson High School",
-		"dates": "August 2005-April 2007",
-		"location": "Boulder, MT",
-		"description": ("<b>⋅</b> Help with client problem resolution."+"<br>"+
-		"<b>⋅</b> Interact with and manage user and email databases."+"<br>"+
-		"<b>⋅</b> Run new network components such as switches or new desktops."+"<br>"+
-		"<b>⋅</b> Maintain and repair current hardware: building computers, replacing components within the computer,replacing network switches."+"<br>"+
-		"<b>⋅</b> Integrate new operating systems for use in database management such as migration from Windows server to Linux server and vice versa.")
 	}]
 };
 
@@ -166,7 +156,7 @@ var bio = {
 		"email": "Thompsonacristian@gmail.com",
 		"mobile": "1-902-978-0722",
 		"github": "CristianAThompson",
-		"location": "35 Orchard Drive, Stratford PE C1B 1K7"
+		// "location": "35 Orchard Drive, Stratford PE C1B 1K7"
 	},
 	"biopic": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-frc1/v/t1.0-9/10888703_407644209391248_5781748332896288379_n.jpg?oh=1c4dfadc7b94e3af7ed1d2d25b9a2c05&oe=57929EC3",
 	"welcomeMessage": "Please contact me with any questions or if you would be interested in discussing a job proposal.",
@@ -186,10 +176,9 @@ bio.display = function() {
 	var formattedGitHub = HTMLgithub.replace("%data%", bio.contacts.github);
 	var formattedEmail = HTMLemail.replace("%data%", bio.contacts.email);
 	var formattedMobile = HTMLmobile.replace("%data%", bio.contacts.mobile);
-	var formattedAddress = HTMLlocation.replace("%data%", bio.contacts.location);
 
 
-	$("#header").append(formattedName + "<br>", formattedRole + "<br>", formattedPicture + "<br>", formattedWelcome + "<br>", formattedGitHub, formattedEmail, formattedMobile, formattedAddress);
+	$("#header").append(formattedName + "<br>", formattedRole + "<br>", formattedPicture + "<br>", formattedWelcome + "<br>", formattedGitHub, formattedEmail, formattedMobile);
 	$("#footerContacts").append(formattedMobile, formattedEmail);
 
 
