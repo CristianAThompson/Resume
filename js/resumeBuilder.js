@@ -158,7 +158,7 @@ var bio = {
 		"github": "CristianAThompson",
 		// "location": "35 Orchard Drive, Stratford PE C1B 1K7"
 	},
-	"biopic": "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1236881_220780144744323_260972656_n.jpg?oh=b12d2796c3dadb62ea038a1148b65b48&oe=58CECEF8",
+	"biopic": "images/me.jpg",
 	"welcomeMessage": "Please contact me with any questions or if you would be interested in discussing a job proposal.",
 	"skills": ["Ability to adapt and learn in new situations.",
 		"Knowledgable in Python, HTML, CSS, and JS.",
