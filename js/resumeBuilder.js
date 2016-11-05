@@ -112,7 +112,7 @@ var education = {
 		"title": "Java Programming",
 		"school": "O'Reilly School of Technology",
 		"date": "December 2014-September 2015",
-		"url": "http://archive.oreilly.com/oreillyschool/courses/programs.html"
+		"url": "http://archive.oreilly.com/oreillyschool/courses/courses.html#course_id_118"
 	}, {
 		"title": "Introduction to Object-Oriented Programming",
 		"school": "O'Reilly School of Technology",
